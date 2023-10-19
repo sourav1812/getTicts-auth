@@ -2,7 +2,7 @@
   "name": "@ss_microservice_auth_service/common",
   "version": "1.0.3",
   "description": "",
-  "main": "./build/.js",
+  "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "files": [
     "build/**/*"
